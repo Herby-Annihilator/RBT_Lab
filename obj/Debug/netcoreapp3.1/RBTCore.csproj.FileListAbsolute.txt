@@ -1,0 +1,14 @@
+D:\Проекты  в студии\Semester_5\Algorithms\RBTCore\bin\Debug\netcoreapp3.1\RBTCore.exe
+D:\Проекты  в студии\Semester_5\Algorithms\RBTCore\bin\Debug\netcoreapp3.1\RBTCore.deps.json
+D:\Проекты  в студии\Semester_5\Algorithms\RBTCore\bin\Debug\netcoreapp3.1\RBTCore.runtimeconfig.json
+D:\Проекты  в студии\Semester_5\Algorithms\RBTCore\bin\Debug\netcoreapp3.1\RBTCore.runtimeconfig.dev.json
+D:\Проекты  в студии\Semester_5\Algorithms\RBTCore\bin\Debug\netcoreapp3.1\RBTCore.dll
+D:\Проекты  в студии\Semester_5\Algorithms\RBTCore\bin\Debug\netcoreapp3.1\RBTCore.pdb
+D:\Проекты  в студии\Semester_5\Algorithms\RBTCore\obj\Debug\netcoreapp3.1\RBTCore.csprojAssemblyReference.cache
+D:\Проекты  в студии\Semester_5\Algorithms\RBTCore\obj\Debug\netcoreapp3.1\RBTCore.AssemblyInfoInputs.cache
+D:\Проекты  в студии\Semester_5\Algorithms\RBTCore\obj\Debug\netcoreapp3.1\RBTCore.AssemblyInfo.cs
+D:\Проекты  в студии\Semester_5\Algorithms\RBTCore\obj\Debug\netcoreapp3.1\RBTCore.dll
+D:\Проекты  в студии\Semester_5\Algorithms\RBTCore\obj\Debug\netcoreapp3.1\RBTCore.pdb
+D:\Проекты  в студии\Semester_5\Algorithms\RBTCore\bin\Debug\netcoreapp3.1\MyLibrary.dll
+D:\Проекты  в студии\Semester_5\Algorithms\RBTCore\bin\Debug\netcoreapp3.1\MyLibrary.pdb
+D:\Проекты  в студии\Semester_5\Algorithms\RBTCore\obj\Debug\netcoreapp3.1\RBTCore.csproj.CopyComplete
